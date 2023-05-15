@@ -29,7 +29,7 @@ You can access the UI by visiting `http://localhost:8233`.
 
 ### Using Docker
 
-After pulling down the lastest version of Temporal's [`docker-compose`](https://github.com/temporalio/docker-compose), you can access the UI by visiting `http://localhost:8080`.
+After pulling down the latest version of Temporal's [`docker-compose`](https://github.com/temporalio/docker-compose), you can access the UI by visiting `http://localhost:8080`.
 
 ## Trying it out: Bleeding edge
 
